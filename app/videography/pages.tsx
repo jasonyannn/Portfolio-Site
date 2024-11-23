@@ -1,6 +1,6 @@
-import { Projects } from '@/components/projects'
+import { Videography } from '@/components/videography'
 
-export default function ProjectsPage() {
-  return <Projects />
+export default function VideographyPage() {
+  return <Videography />
 }
 
