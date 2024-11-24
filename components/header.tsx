@@ -1,15 +1,17 @@
+'use client'
+
 import Link from 'next/link'
-import { useRouter } from 'next/router'
+import { usePathname } from 'next/navigation'
 import { motion } from 'framer-motion'
 import { useState, useEffect } from 'react'
 
 export function Header() {
-  const router = useRouter()
-  const [activeTab, setActiveTab] = useState(router.pathname)
+  const pathname = usePathname()
+  const [activeTab, setActiveTab] = useState(pathname)
 
   useEffect(() => {
-    setActiveTab(router.pathname)
-  }, [router.pathname])
+    setActiveTab(pathname)
+  }, [pathname])
 
   const links = [
     { href: "/", label: "Home" },
