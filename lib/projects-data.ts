@@ -27,25 +27,24 @@ export const projects = [
     title: 'Sunlord',
     description: 'A real estate company I worked at where I got to redesign the website with a hint of an aesthetic touch.',
     image: 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-52BL3oLZhpqu3D91ymB3ny4yTVHto2.png',
-    link: '#'
+    link: 'https://www.figma.com/proto/Bac5i8W0DdC8EknGuYUOEg/SUNLORD-SITE-FIX?node-id=293-2&starting-point-node-id=1%3A2'
   },
   {
     title: 'FashionHall',
     description: 'Elevating your style with a curated collection of trendy and timeless apparel. Explore a world of fashion-forward designs for every occasion.',
     image: 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-bGNBP2vcJJ0jEM9o3euD7KpfQpnfAl.png',
-    link: '#'
+    link: 'https://www.figma.com/proto/dAJ2HQacXszIHjfRpQ3sLl/FashionHall?node-id=1-66&starting-point-node-id=1%3A66'
   },
   {
     title: 'US Bank',
     description: 'A banking app to track your repayments and loans.',
     image: 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-eMF2dtBZxr6JO74A9xzWO8KACpsdsK.png',
-    link: '#'
+    link: 'https://www.figma.com/proto/cvLuEmRVieOQ6orvfDJ7N8/US-BANK-APP?node-id=2-15&node-type=canvas&t=4VcjhX4HFFwSlKPK-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=2%3A15'
   },
   {
     title: 'Smart Group',
     description: 'A project I am working for Smart Salary to redesign their app potentially.',
     image: 'https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-Plv3zC2ojCdybnpXpLyKtGPdVzPbbM.png',
-    link: '#'
+    link: 'https://www.figma.com/proto/atDfOcmYt3OQGfsKLCt6GY?node-id=0-1&t=IHrBADw8gvXNLMqJ-6'
   }
 ]
-

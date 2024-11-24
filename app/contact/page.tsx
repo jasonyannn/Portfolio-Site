@@ -1,4 +1,4 @@
-use client'
+'use client'
 
 import { useState } from 'react'
 import { Button } from "@/components/ui/button"
@@ -96,9 +96,9 @@ export default function ContactPage() {
         </form>
         <div className="mt-12 text-center">
           <p className="mb-2">Email: jasonyan566@gmail.com</p>
-          <p>Phone: 0482041883</p>
         </div>
       </div>
     </div>
   )
 }
+
